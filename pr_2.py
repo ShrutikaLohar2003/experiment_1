@@ -1,3 +1,3 @@
-months = ["Jan", "Feb", "Dec", "Apr", "May"]
-months[2] = "Mar"
+months = ["Jan", "Feb", "Dec", "Apr", "May","June","Nov","Sep","Oct]
 print(months)
+
